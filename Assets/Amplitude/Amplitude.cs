@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Runtime.InteropServices;
 #endif
 
-public class Amplitude {
+public partial class Amplitude {
 	private static readonly string UnityLibraryName = "amplitude-unity";
 	private static readonly string UnityLibraryVersion = "2.7.0";
 
